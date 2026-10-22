@@ -1,0 +1,152 @@
+{
+  "_help": [
+    "Each block describes one kind of submissions export. Pick it with --source <name>.",
+    "Column lists: possible column names, first one found is used (case, spaces and punctuation are ignored; a column that starts with the name also counts).",
+    "title_from_first_line: the title is the first line of the title column (for 'Project Title and Description' style columns).",
+    "title_fallback_repo_name: if there is no title, use the repo name ('fraud-ring-ui' -> 'Fraud Ring Ui').",
+    "extra_sections: columns added to the description under their own heading. Use {\"column\": ..., \"label\": ...} to rename the heading.",
+    "details: columns shown as a bullet list. metrics_table: columns shown as a results table. links: columns shown as a list of links.",
+    "timestamp + dedupe_by: repeat submissions (same repo, or same value in a dedupe_by column such as the submitter's email) keep the latest one. These values are only used for matching, never written to the site.",
+    "exclude: team names or repo URLs to leave out. force_include: import even if the repo is private/missing or the description is short.",
+    "skip_text_pattern / min_section_length: ignore extra-section text that matches the pattern or is shorter than this.",
+    "Personal data (emails, phone numbers, addresses) is never imported: only the columns named here are read."
+  ],
+  "unstop": {
+    "team": ["Team Name", "Team", "Team Title"],
+    "title": ["Project Title", "Project Name", "Submission Title", "Idea Title", "Title"],
+    "description": ["Project Description", "Submission Description", "Description", "Idea Description", "Abstract"],
+    "repo_url": ["GitHub Link", "GitHub URL", "GitHub Repository", "GitHub Repo", "Repository Link", "Repository URL", "Repo URL", "Code Link"],
+    "demo_url": ["Demo Link", "Demo URL", "Demo Video", "Video Link", "Live Link", "Deployed Link", "Project Link"],
+    "image_url": ["Image", "Image URL", "Thumbnail", "Cover Image"],
+    "title_fallback_repo_name": true,
+    "timestamp": ["Timestamp", "Submission Time", "Submitted At"],
+    "dedupe_by": ["Email Address", "Email", "Team ID"],
+    "extra_sections": []
+  },
+  "devcation_form": {
+    "team": ["Team Name"],
+    "repo_url": ["Github repo link"],
+    "demo_url": ["Demo video link"],
+    "title_fallback_repo_name": true,
+    "extra_sections": [
+      { "column": "Discuss briefly how you have integrated Tigergraph in the solution", "label": "How the team used TigerGraph" }
+    ],
+    "links": [
+      { "column": "Deployed link", "label": "Live app" },
+      { "column": "PPT link", "label": "Slides" }
+    ],
+    "timestamp": ["Timestamp"],
+    "dedupe_by": ["Email Address"],
+    "min_description_length": 40,
+    "exclude": ["SignalSolver", "The Void", "Code Minds", "Team Reverence", "Sangam_Fusion", "Rakshak"]
+  },
+  "graphrag_round1_form": {
+    "team": ["Team / Participant Name"],
+    "title": ["Project Title and Description"],
+    "description": ["Project Title and Description"],
+    "repo_url": ["Public GitHub Repo Link"],
+    "demo_url": ["Demo Video Link"],
+    "title_from_first_line": true,
+    "title_fallback_repo_name": true,
+    "extra_sections": [
+      { "column": "Dataset Domain & Source", "label": "Dataset" },
+      { "column": "Benchmark Results Summary", "label": "Benchmark results" }
+    ],
+    "links": [
+      { "column": "Live Deployed link", "label": "Live app" },
+      { "column": "Blog Link", "label": "Blog post" }
+    ],
+    "timestamp": ["Timestamp"],
+    "dedupe_by": ["Email Address"]
+  },
+  "graphrag_finals_form": {
+    "team": ["Team / Participant Name"],
+    "title": ["Project Title and Description"],
+    "description": ["Project Title and Description"],
+    "repo_url": ["Public GitHub Repo Link"],
+    "demo_url": ["Demo Video Link"],
+    "title_from_first_line": true,
+    "title_fallback_repo_name": true,
+    "extra_sections": [{ "column": "Dataset Domain & Source", "label": "Dataset" }],
+    "details": [
+      { "column": "LLM Model Used", "label": "LLM" },
+      { "column": "Vector DB for RAG", "label": "Vector database for RAG" },
+      { "column": "Token Reduction % (GraphRAG vs RAG)", "label": "Token reduction, GraphRAG vs RAG (%)" }
+    ],
+    "metrics_table": {
+      "columns": ["LLM only", "Basic RAG", "GraphRAG"],
+      "rows": [
+        { "label": "Tokens per query", "columns": ["Tokens per query (LLM Only)", "Tokens per query (RAG)", "Tokens per query (GraphRAG)"] },
+        { "label": "Cost per query", "columns": ["Cost per query (LLM Only)", "Cost per query (RAG)", "Cost per query (GraphRAG)"] },
+        { "label": "Latency", "columns": ["Latency (LLM Only)", "Latency (RAG)", "Latency (GraphRAG)"] },
+        { "label": "LLM-as-judge pass %", "columns": ["LLM-as-Judge Pass % (LLM Only)", "LLM-as-Judge Pass % (RAG)", "LLM-as-Judge Pass % (GraphRAG)"] },
+        { "label": "BERTScore F1", "columns": ["BERTScore F1 (LLM Only)", "BERTScore F1 (RAG)", "BERTScore F1 (GraphRAG)"] }
+      ]
+    },
+    "links": [
+      { "column": "Live Deployed Link", "label": "Live app" },
+      { "column": "Blog Link", "label": "Blog post" },
+      { "column": "Presentation Slides or Architecture Diagram", "label": "Slides" }
+    ],
+    "timestamp": ["Timestamp"],
+    "dedupe_by": ["Email Address"],
+    "force_include": ["https://github.com/MUTHUKUMARAN-K-1/graphrag-inference-hackathon"]
+  },
+  "agentic_round1_form": {
+    "team": ["Team / Participant Name"],
+    "title": ["Project Title and Description"],
+    "description": ["Project Title and Description"],
+    "repo_url": ["Public GitHub Repo Link"],
+    "demo_url": ["Demo Video Link"],
+    "title_from_first_line": true,
+    "title_fallback_repo_name": true,
+    "details": [
+      { "column": "LLM Model Used", "label": "LLM" },
+      { "column": "Vector DB Used for RAG Pipeline", "label": "Vector database" },
+      { "column": "Graph Backend", "label": "Graph backend" },
+      { "column": "Avg retrieval/reasoning steps per question", "label": "Average agent steps per question" },
+      { "column": "Retrieval methods used", "label": "Retrieval methods" }
+    ],
+    "metrics_table": {
+      "columns": ["RAG", "GraphRAG", "Agentic GraphRAG"],
+      "rows": [
+        { "label": "Accuracy %", "columns": ["Accuracy % (RAG)", "Accuracy % (GraphRAG)", "Accuracy % (Agentic GraphRAG)"] },
+        { "label": "Tokens per query", "columns": ["Tokens per query (RAG)", "Tokens per query (GraphRAG)", "Tokens per query (Agentic GraphRAG)"] },
+        { "label": "Latency", "columns": ["Latency (RAG)", "Latency (GraphRAG)", "Latency (Agentic GraphRAG)"] }
+      ]
+    },
+    "links": [
+      { "column": "Live Deployed Link", "label": "Live app" },
+      { "column": "Blog Link", "label": "Blog post" }
+    ],
+    "timestamp": ["Timestamp"],
+    "dedupe_by": ["Email Address"],
+    "exclude": ["Nataliia Rudnikova"]
+  },
+  "hhgoa_form": {
+    "team": ["Team name (exactly as on Devfolio)"],
+    "repo_url": ["Public GitHub repo URL"],
+    "demo_url": ["Demo video URL"],
+    "title_fallback_repo_name": true,
+    "details": [
+      { "column": "LLM model used", "label": "LLM" },
+      { "column": "Agent framework used", "label": "Agent framework" },
+      { "column": "TigerGraph deployment: Savanna / Community Edition", "label": "TigerGraph deployment" }
+    ],
+    "extra_sections": [{ "column": "Anything else you want to tell us ?", "label": "Notes from the team" }],
+    "links": [
+      { "column": "Live UI URL", "label": "Live app" },
+      { "column": "Technical blog URL", "label": "Technical blog" }
+    ],
+    "timestamp": ["Timestamp"],
+    "dedupe_by": ["Email Address"],
+    "skip_text_pattern": "select(ed)? us|hope (we|to) (get )?select|please select|waiting for you",
+    "min_section_length": 60
+  },
+  "results": {
+    "team": ["Team Name", "Team"],
+    "placement": ["Placement", "Position", "Rank", "Result"],
+    "prize": ["Prize", "Prize Amount", "Award", "Reward"],
+    "repo": ["Repo", "Repo URL", "GitHub Repo", "GitHub repo URL"]
+  }
+}

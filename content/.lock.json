@@ -1,0 +1,1521 @@
+{
+  "blg_4f47bf": {
+    "kind": "blog",
+    "file": "content/blogs/graphrag-pipeline-comparison.md",
+    "slug": "graphrag-pipeline-comparison",
+    "hash": "570af5790305d515",
+    "updated_at": "2026-10-16T21:26:11+05:30"
+  },
+  "blg_66a9fd": {
+    "kind": "blog",
+    "file": "content/blogs/install-the-tigergraph-mcp.md",
+    "slug": "install-the-tigergraph-mcp",
+    "hash": "e9b2899cf3154637",
+    "updated_at": "2026-10-16T21:23:21+05:30"
+  },
+  "blg_m3p8tr": {
+    "kind": "blog",
+    "file": "content/blogs/modeling-fraud-rings.md",
+    "slug": "modeling-fraud-rings",
+    "hash": "02fcaf11d1d7b420",
+    "updated_at": "2026-10-01T09:00:00+05:30"
+  },
+  "evt_35ae8f": {
+    "kind": "event",
+    "file": "content/events/graphrag-inference-hackathon-2026.md",
+    "slug": "graphrag-inference-hackathon-2026",
+    "hash": "a8c45ba0ab6fa3e1",
+    "updated_at": "2026-10-16T21:12:59+05:30"
+  },
+  "evt_c1c54e": {
+    "kind": "event",
+    "file": "content/events/agentic-graphrag-hackathon-2026.md",
+    "slug": "agentic-graphrag-hackathon-2026",
+    "hash": "6dbe0c4231701c4d",
+    "updated_at": "2026-10-16T21:12:59+05:30"
+  },
+  "evt_cb2816": {
+    "kind": "event",
+    "file": "content/events/hacker-house-goa-2026.md",
+    "slug": "hacker-house-goa-2026",
+    "hash": "67d6c548a73da805",
+    "updated_at": "2026-10-16T21:12:59+05:30"
+  },
+  "evt_e1ee75": {
+    "kind": "event",
+    "file": "content/events/devcation-delhi-2026.md",
+    "slug": "devcation-delhi-2026",
+    "hash": "343c7156adcf746f",
+    "updated_at": "2026-10-16T21:12:59+05:30"
+  },
+  "prj_011496": {
+    "kind": "project",
+    "file": "content/projects/devcation-delhi-2026/spirit.md",
+    "hash": "412f2198bec62c8b",
+    "updated_at": "2026-10-14T19:17:52+05:30"
+  },
+  "prj_027b14": {
+    "kind": "project",
+    "file": "content/projects/devcation-delhi-2026/cach3-me-out.md",
+    "hash": "852ff5e428d8c023",
+    "updated_at": "2026-10-14T19:20:31+05:30"
+  },
+  "prj_028246": {
+    "kind": "project",
+    "file": "content/projects/agentic-graphrag-hackathon-2026/innocollab-round-1.md",
+    "hash": "d53f72d8b3bfa25c",
+    "updated_at": "2026-10-14T19:18:57+05:30"
+  },
+  "prj_03ae68": {
+    "kind": "project",
+    "file": "content/projects/hacker-house-goa-2026/void-odyssey.md",
+    "hash": "1a07ea6860e36a57",
+    "updated_at": "2026-10-14T19:18:58+05:30"
+  },
+  "prj_03d1a1": {
+    "kind": "project",
+    "file": "content/projects/graphrag-inference-hackathon-2026/empoweredge-round-1.md",
+    "hash": "59e33407e1263f8b",
+    "updated_at": "2026-10-14T19:18:29+05:30"
+  },
+  "prj_04fd52": {
+    "kind": "project",
+    "file": "content/projects/agentic-graphrag-hackathon-2026/lowkey-sentient-round-1.md",
+    "hash": "c6a0f097b3af6e07",
+    "updated_at": "2026-10-14T19:18:47+05:30"
+  },
+  "prj_051e43": {
+    "kind": "project",
+    "file": "content/projects/agentic-graphrag-hackathon-2026/janani-v-r-round-1.md",
+    "hash": "2e792a2226f69246",
+    "updated_at": "2026-10-14T19:18:47+05:30"
+  },
+  "prj_066577": {
+    "kind": "project",
+    "file": "content/projects/graphrag-inference-hackathon-2026/pranjal-dey-round-1.md",
+    "hash": "028ca839776ec4b9",
+    "updated_at": "2026-10-14T19:18:29+05:30"
+  },
+  "prj_079362": {
+    "kind": "project",
+    "file": "content/projects/devcation-delhi-2026/risinglion.md",
+    "hash": "2500442df0aa4e34",
+    "updated_at": "2026-10-14T19:17:52+05:30"
+  },
+  "prj_07f33e": {
+    "kind": "project",
+    "file": "content/projects/graphrag-inference-hackathon-2026/itai-doshin-round-1.md",
+    "hash": "11e3e2bc23460a9d",
+    "updated_at": "2026-10-14T19:19:42+05:30"
+  },
+  "prj_07f615": {
+    "kind": "project",
+    "file": "content/projects/devcation-delhi-2026/deeplydisturbed.md",
+    "hash": "b7fcc79fed4dd0a5",
+    "updated_at": "2026-10-14T19:17:51+05:30"
+  },
+  "prj_08c01a": {
+    "kind": "project",
+    "file": "content/projects/graphrag-inference-hackathon-2026/b-sanjeev-reddy-team-ragnarock-round-1.md",
+    "hash": "0eab5018136cb9ad",
+    "updated_at": "2026-10-14T19:18:29+05:30"
+  },
+  "prj_0aec16": {
+    "kind": "project",
+    "file": "content/projects/agentic-graphrag-hackathon-2026/technova-round-1.md",
+    "hash": "c4ffe4648b39d593",
+    "updated_at": "2026-10-14T19:20:44+05:30"
+  },
+  "prj_0c1c25": {
+    "kind": "project",
+    "file": "content/projects/hacker-house-goa-2026/nirmal-joseph-ukken.md",
+    "hash": "6c88a8cf1286c029",
+    "updated_at": "2026-10-14T19:20:46+05:30"
+  },
+  "prj_0c53ff": {
+    "kind": "project",
+    "file": "content/projects/agentic-graphrag-hackathon-2026/jahnavi-pamarthi-round-1.md",
+    "hash": "3a7e2d4a8bdd7b23",
+    "updated_at": "2026-10-14T19:18:47+05:30"
+  },
+  "prj_0c5f4b": {
+    "kind": "project",
+    "file": "content/projects/graphrag-inference-hackathon-2026/team-tiger-round-1.md",
+    "hash": "8f435e9ed4188a1d",
+    "updated_at": "2026-10-14T19:18:30+05:30"
+  },
+  "prj_0d93c2": {
+    "kind": "project",
+    "file": "content/projects/agentic-graphrag-hackathon-2026/mani-krishna-banje-round-1.md",
+    "hash": "d39c93d174e33a40",
+    "updated_at": "2026-10-14T19:18:47+05:30"
+  },
+  "prj_0f3a21": {
+    "kind": "project",
+    "file": "content/projects/graphrag-inference-hackathon-2026/code-crafter-round-1.md",
+    "hash": "8844450f8678a716",
+    "updated_at": "2026-10-14T19:18:29+05:30"
+  },
+  "prj_11788b": {
+    "kind": "project",
+    "file": "content/projects/hacker-house-goa-2026/neural-mavericks.md",
+    "hash": "38507b99a16200da",
+    "updated_at": "2026-10-14T19:18:58+05:30"
+  },
+  "prj_127941": {
+    "kind": "project",
+    "file": "content/projects/devcation-delhi-2026/billauta-gang.md",
+    "hash": "8c8320ff25b3c4b6",
+    "updated_at": "2026-10-14T19:20:31+05:30"
+  },
+  "prj_148a21": {
+    "kind": "project",
+    "file": "content/projects/graphrag-inference-hackathon-2026/primus-dharaneesh-n-harishwa-a-p-round-1.md",
+    "hash": "f7947bcbd2d27035",
+    "updated_at": "2026-10-14T19:18:29+05:30"
+  },
+  "prj_161dad": {
+    "kind": "project",
+    "file": "content/projects/devcation-delhi-2026/killers-of-threats.md",
+    "hash": "7cb9259c216d51ad",
+    "updated_at": "2026-10-14T19:20:31+05:30"
+  },
+  "prj_16b885": {
+    "kind": "project",
+    "file": "content/projects/devcation-delhi-2026/cybersentinels.md",
+    "hash": "8f9e77d94d292b5f",
+    "updated_at": "2026-10-14T19:20:31+05:30"
+  },
+  "prj_17848c": {
+    "kind": "project",
+    "file": "content/projects/agentic-graphrag-hackathon-2026/nextin-dhruv-pandey-round-1.md",
+    "hash": "3ca609de1a60cc15",
+    "updated_at": "2026-10-14T19:18:57+05:30"
+  },
+  "prj_17f57a": {
+    "kind": "project",
+    "file": "content/projects/agentic-graphrag-hackathon-2026/claude-devs-round-1.md",
+    "hash": "4b17cfc8237a1e98",
+    "updated_at": "2026-10-14T19:18:47+05:30"
+  },
+  "prj_185806": {
+    "kind": "project",
+    "file": "content/projects/devcation-delhi-2026/naveen-bunkar.md",
+    "hash": "f3e3d810811292ce",
+    "updated_at": "2026-10-14T19:17:52+05:30"
+  },
+  "prj_189477": {
+    "kind": "project",
+    "file": "content/projects/agentic-graphrag-hackathon-2026/razor-edge-round-1.md",
+    "hash": "47dfe443a6925281",
+    "updated_at": "2026-10-14T19:18:57+05:30"
+  },
+  "prj_19d859": {
+    "kind": "project",
+    "file": "content/projects/devcation-delhi-2026/404-not-found.md",
+    "hash": "53b0a98e79b733a8",
+    "updated_at": "2026-10-14T19:20:31+05:30"
+  },
+  "prj_1b453e": {
+    "kind": "project",
+    "file": "content/projects/hacker-house-goa-2026/verna-visionaries.md",
+    "hash": "067ffc1bde6934e1",
+    "updated_at": "2026-10-14T19:18:58+05:30"
+  },
+  "prj_1b7a3c": {
+    "kind": "project",
+    "file": "content/projects/devcation-delhi-2026/riptide.md",
+    "hash": "df8a7ec10602814e",
+    "updated_at": "2026-10-14T19:20:31+05:30"
+  },
+  "prj_1dbfa6": {
+    "kind": "project",
+    "file": "content/projects/agentic-graphrag-hackathon-2026/satyajeet-patil-round-1.md",
+    "hash": "5fc565075892ca83",
+    "updated_at": "2026-10-14T19:18:57+05:30"
+  },
+  "prj_1e9708": {
+    "kind": "project",
+    "file": "content/projects/graphrag-inference-hackathon-2026/flash-nilansh-jain-round-1.md",
+    "hash": "b51c90ba9c203841",
+    "updated_at": "2026-10-14T19:18:29+05:30"
+  },
+  "prj_1f9e80": {
+    "kind": "project",
+    "file": "content/projects/agentic-graphrag-hackathon-2026/bizgenius-round-1.md",
+    "hash": "fad72f9b6d0e8f75",
+    "updated_at": "2026-10-14T19:19:48+05:30"
+  },
+  "prj_25d830": {
+    "kind": "project",
+    "file": "content/projects/devcation-delhi-2026/horizon.md",
+    "hash": "429dd9fbe3f754a7",
+    "updated_at": "2026-10-14T19:17:51+05:30"
+  },
+  "prj_25e0ca": {
+    "kind": "project",
+    "file": "content/projects/graphrag-inference-hackathon-2026/hoplogic-round-1.md",
+    "hash": "e01649f61e004243",
+    "updated_at": "2026-10-14T19:18:29+05:30"
+  },
+  "prj_282761": {
+    "kind": "project",
+    "file": "content/projects/graphrag-inference-hackathon-2026/pushkar-k-g-round-1.md",
+    "hash": "5e4d2c0ae63bb666",
+    "updated_at": "2026-10-14T19:18:29+05:30"
+  },
+  "prj_2896dd": {
+    "kind": "project",
+    "file": "content/projects/devcation-delhi-2026/eunoia.md",
+    "hash": "c10400ebf228b803",
+    "updated_at": "2026-10-14T19:17:51+05:30"
+  },
+  "prj_28be8f": {
+    "kind": "project",
+    "file": "content/projects/graphrag-inference-hackathon-2026/velocity-round-1.md",
+    "hash": "f9a74529f87fe017",
+    "updated_at": "2026-10-14T19:18:30+05:30"
+  },
+  "prj_293963": {
+    "kind": "project",
+    "file": "content/projects/devcation-delhi-2026/debug-squad.md",
+    "hash": "7ad9eb9021d9a17d",
+    "updated_at": "2026-10-14T19:20:31+05:30"
+  },
+  "prj_2975df": {
+    "kind": "project",
+    "file": "content/projects/devcation-delhi-2026/runtime-terror.md",
+    "hash": "62f6e8341b7ac092",
+    "updated_at": "2026-10-14T19:17:52+05:30"
+  },
+  "prj_2a5895": {
+    "kind": "project",
+    "file": "content/projects/agentic-graphrag-hackathon-2026/sriz-debnath-round-1.md",
+    "hash": "c07a9b0062f4648d",
+    "updated_at": "2026-10-14T19:19:48+05:30"
+  },
+  "prj_2b0ee4": {
+    "kind": "project",
+    "file": "content/projects/graphrag-inference-hackathon-2026/aayush-aayush-goyal-anushka-aggarwal-round-1.md",
+    "hash": "f39ebb6c7ba8a0c4",
+    "updated_at": "2026-10-14T19:38:11+05:30"
+  },
+  "prj_2b8f39": {
+    "kind": "project",
+    "file": "content/projects/devcation-delhi-2026/codebenders.md",
+    "hash": "65b476fe8c788f06",
+    "updated_at": "2026-10-14T19:17:51+05:30"
+  },
+  "prj_2fabdb": {
+    "kind": "project",
+    "file": "content/projects/graphrag-inference-hackathon-2026/team-name-graphonauts-nikunj-shah-round-1.md",
+    "hash": "30d27365f88ec45e",
+    "updated_at": "2026-10-14T19:18:30+05:30"
+  },
+  "prj_2facf1": {
+    "kind": "project",
+    "file": "content/projects/graphrag-inference-hackathon-2026/hackathon-hackers-round-1.md",
+    "hash": "28043ffe8183fdc1",
+    "updated_at": "2026-10-14T19:18:29+05:30"
+  },
+  "prj_30a937": {
+    "kind": "project",
+    "file": "content/projects/agentic-graphrag-hackathon-2026/shreoshi-ghosh-round-1.md",
+    "hash": "eab4e84c42adc8c4",
+    "updated_at": "2026-10-14T19:18:57+05:30"
+  },
+  "prj_31ac4a": {
+    "kind": "project",
+    "file": "content/projects/hacker-house-goa-2026/humanforge.md",
+    "hash": "966555dbe047d4ea",
+    "updated_at": "2026-10-14T19:18:58+05:30"
+  },
+  "prj_32ce7c": {
+    "kind": "project",
+    "file": "content/projects/agentic-graphrag-hackathon-2026/alokita-sahu-nodeninjas-round-1.md",
+    "hash": "9906d15e9da32b03",
+    "updated_at": "2026-10-14T19:18:47+05:30"
+  },
+  "prj_3314ef": {
+    "kind": "project",
+    "file": "content/projects/graphrag-inference-hackathon-2026/riseon-round-2.md",
+    "hash": "e7fcfd6dbc5e695e",
+    "updated_at": "2026-10-14T19:30:07+05:30"
+  },
+  "prj_362e12": {
+    "kind": "project",
+    "file": "content/projects/graphrag-inference-hackathon-2026/mastergraph-round-3.md",
+    "hash": "672d6987c1659afc",
+    "updated_at": "2026-10-14T19:30:07+05:30"
+  },
+  "prj_389d00": {
+    "kind": "project",
+    "file": "content/projects/devcation-delhi-2026/aayush-goyal-ug22.md",
+    "hash": "b2ca5877c2f8d584",
+    "updated_at": "2026-10-14T19:17:51+05:30"
+  },
+  "prj_391038": {
+    "kind": "project",
+    "file": "content/projects/graphrag-inference-hackathon-2026/amrithesh-s-menon-round-1.md",
+    "hash": "bedeb7638446cc71",
+    "updated_at": "2026-10-14T19:38:11+05:30"
+  },
+  "prj_393afa": {
+    "kind": "project",
+    "file": "content/projects/hacker-house-goa-2026/pixelpaws.md",
+    "hash": "e077c07c3860bbf8",
+    "updated_at": "2026-10-14T19:18:58+05:30"
+  },
+  "prj_39f838": {
+    "kind": "project",
+    "file": "content/projects/graphrag-inference-hackathon-2026/rxgr-punit-pal-round-1.md",
+    "hash": "1f507db47312a869",
+    "updated_at": "2026-10-14T19:18:29+05:30"
+  },
+  "prj_3a9e2f": {
+    "kind": "project",
+    "file": "content/projects/graphrag-inference-hackathon-2026/code-titan-round-1.md",
+    "hash": "7988382330b5c3aa",
+    "updated_at": "2026-10-14T19:18:29+05:30"
+  },
+  "prj_3b4012": {
+    "kind": "project",
+    "file": "content/projects/agentic-graphrag-hackathon-2026/sarathkumar-k-round-1.md",
+    "hash": "ad70154dd8cd4485",
+    "updated_at": "2026-10-14T19:18:47+05:30"
+  },
+  "prj_3ba053": {
+    "kind": "project",
+    "file": "content/projects/agentic-graphrag-hackathon-2026/yeshwanthy-s-round-1.md",
+    "hash": "3734afbd5c53e187",
+    "updated_at": "2026-10-14T19:18:47+05:30"
+  },
+  "prj_3c2832": {
+    "kind": "project",
+    "file": "content/projects/hacker-house-goa-2026/kyrex.md",
+    "hash": "ced58c6718974363",
+    "updated_at": "2026-10-14T19:18:58+05:30"
+  },
+  "prj_3d5a96": {
+    "kind": "project",
+    "file": "content/projects/devcation-delhi-2026/cashe-chai.md",
+    "hash": "f80240d922e87f12",
+    "updated_at": "2026-10-14T19:17:51+05:30"
+  },
+  "prj_3d9687": {
+    "kind": "project",
+    "file": "content/projects/graphrag-inference-hackathon-2026/strawhat-round-1.md",
+    "hash": "cb31e352c3477d6e",
+    "updated_at": "2026-10-14T19:18:30+05:30"
+  },
+  "prj_3f6f49": {
+    "kind": "project",
+    "file": "content/projects/graphrag-inference-hackathon-2026/devyani-shinde-round-1.md",
+    "hash": "5964fa0b1dd18194",
+    "updated_at": "2026-10-14T19:18:29+05:30"
+  },
+  "prj_407d41": {
+    "kind": "project",
+    "file": "content/projects/devcation-delhi-2026/lakshay-tyagi.md",
+    "hash": "28ff474d74de31cc",
+    "updated_at": "2026-10-14T19:17:51+05:30"
+  },
+  "prj_40e60e": {
+    "kind": "project",
+    "file": "content/projects/graphrag-inference-hackathon-2026/manasvi-k-s-round-1.md",
+    "hash": "e79229b0333525aa",
+    "updated_at": "2026-10-14T19:18:29+05:30"
+  },
+  "prj_41c66d": {
+    "kind": "project",
+    "file": "content/projects/agentic-graphrag-hackathon-2026/nirmal-joseph-v-ukken-round-1.md",
+    "hash": "03050e821db5c21d",
+    "updated_at": "2026-10-14T19:18:57+05:30"
+  },
+  "prj_43b3da": {
+    "kind": "project",
+    "file": "content/projects/graphrag-inference-hackathon-2026/meowghopghop-round-1.md",
+    "hash": "9e89978757342685",
+    "updated_at": "2026-10-14T19:19:42+05:30"
+  },
+  "prj_4523bc": {
+    "kind": "project",
+    "file": "content/projects/graphrag-inference-hackathon-2026/vertex-round-1.md",
+    "hash": "f4c21dd9b73f037c",
+    "updated_at": "2026-10-14T19:18:30+05:30"
+  },
+  "prj_455a04": {
+    "kind": "project",
+    "file": "content/projects/graphrag-inference-hackathon-2026/codex-round-1-2.md",
+    "hash": "dc09754a968951ac",
+    "updated_at": "2026-10-14T19:18:29+05:30"
+  },
+  "prj_474815": {
+    "kind": "project",
+    "file": "content/projects/agentic-graphrag-hackathon-2026/srikar-round-1.md",
+    "hash": "1bcd64aaff1c1280",
+    "updated_at": "2026-10-14T19:18:47+05:30"
+  },
+  "prj_47a1f4": {
+    "kind": "project",
+    "file": "content/projects/agentic-graphrag-hackathon-2026/repulsors-rakshita-verma-round-1.md",
+    "hash": "9680beb08ee9b91f",
+    "updated_at": "2026-10-14T19:18:47+05:30"
+  },
+  "prj_4ad13a": {
+    "kind": "project",
+    "file": "content/projects/devcation-delhi-2026/zenith.md",
+    "hash": "af67c80975cfce39",
+    "updated_at": "2026-10-14T19:20:31+05:30"
+  },
+  "prj_4b640f": {
+    "kind": "project",
+    "file": "content/projects/devcation-delhi-2026/brainbytes.md",
+    "hash": "72ed2c355b6e0470",
+    "updated_at": "2026-10-14T19:18:16+05:30"
+  },
+  "prj_4b6557": {
+    "kind": "project",
+    "file": "content/projects/hacker-house-goa-2026/root-cause.md",
+    "hash": "a3d853acb63160b3",
+    "updated_at": "2026-10-14T19:20:46+05:30"
+  },
+  "prj_4c710c": {
+    "kind": "project",
+    "file": "content/projects/agentic-graphrag-hackathon-2026/codescythe-round-1.md",
+    "hash": "6a22d526c2aeb215",
+    "updated_at": "2026-10-14T19:20:44+05:30"
+  },
+  "prj_4daf3f": {
+    "kind": "project",
+    "file": "content/projects/hacker-house-goa-2026/mevearth.md",
+    "hash": "a810eedde2e913f7",
+    "updated_at": "2026-10-14T19:18:58+05:30"
+  },
+  "prj_4df055": {
+    "kind": "project",
+    "file": "content/projects/devcation-delhi-2026/gitkaro.md",
+    "hash": "9afdadb0a2933756",
+    "updated_at": "2026-10-14T19:17:51+05:30"
+  },
+  "prj_4eeaa6": {
+    "kind": "project",
+    "file": "content/projects/devcation-delhi-2026/aalu.md",
+    "hash": "cc7e6aa9f2e52dc4",
+    "updated_at": "2026-10-14T19:17:51+05:30"
+  },
+  "prj_515249": {
+    "kind": "project",
+    "file": "content/projects/graphrag-inference-hackathon-2026/kumaraguru-v-s-round-3.md",
+    "hash": "3488c5721b51bd4e",
+    "updated_at": "2026-10-14T19:30:07+05:30"
+  },
+  "prj_522760": {
+    "kind": "project",
+    "file": "content/projects/graphrag-inference-hackathon-2026/chirag-solo-round-1.md",
+    "hash": "3af0b5e7ecf873de",
+    "updated_at": "2026-10-14T19:18:29+05:30"
+  },
+  "prj_5465ee": {
+    "kind": "project",
+    "file": "content/projects/devcation-delhi-2026/syntax-buster.md",
+    "hash": "c32967705c2e4fde",
+    "updated_at": "2026-10-14T19:17:52+05:30"
+  },
+  "prj_550d10": {
+    "kind": "project",
+    "file": "content/projects/graphrag-inference-hackathon-2026/rag-experts-round-1.md",
+    "hash": "ab145cce460a3c07",
+    "updated_at": "2026-10-14T19:18:29+05:30"
+  },
+  "prj_555866": {
+    "kind": "project",
+    "file": "content/projects/graphrag-inference-hackathon-2026/impact-innovatemedgraphrag-evaluating-graphrag-vs-traditional-rag-vs-llm-only-in.md",
+    "hash": "08d4176c703c6033",
+    "updated_at": "2026-10-14T19:19:42+05:30"
+  },
+  "prj_569482": {
+    "kind": "project",
+    "file": "content/projects/hacker-house-goa-2026/rax.md",
+    "hash": "54ec721e429e2b7a",
+    "updated_at": "2026-10-14T19:20:46+05:30"
+  },
+  "prj_578114": {
+    "kind": "project",
+    "file": "content/projects/graphrag-inference-hackathon-2026/riseon-round-1.md",
+    "hash": "4782792efb428050",
+    "updated_at": "2026-10-14T19:18:29+05:30"
+  },
+  "prj_5a0560": {
+    "kind": "project",
+    "file": "content/projects/devcation-delhi-2026/syntax-squad.md",
+    "hash": "33d019fad04608c7",
+    "updated_at": "2026-10-14T19:20:31+05:30"
+  },
+  "prj_5a1fcd": {
+    "kind": "project",
+    "file": "content/projects/graphrag-inference-hackathon-2026/team-alpha-round-1.md",
+    "hash": "e55391ee9f0fdff9",
+    "updated_at": "2026-10-14T19:18:30+05:30"
+  },
+  "prj_5bbd0c": {
+    "kind": "project",
+    "file": "content/projects/graphrag-inference-hackathon-2026/codex-round-1.md",
+    "hash": "23b64e35d7fa71ad",
+    "updated_at": "2026-10-14T19:18:29+05:30"
+  },
+  "prj_5cb492": {
+    "kind": "project",
+    "file": "content/projects/agentic-graphrag-hackathon-2026/team-silver-round-1.md",
+    "hash": "b489e26fe5ab7d7d",
+    "updated_at": "2026-10-14T19:18:47+05:30"
+  },
+  "prj_5cea92": {
+    "kind": "project",
+    "file": "content/projects/graphrag-inference-hackathon-2026/shashanka-sekar-nayak-round-1.md",
+    "hash": "355e003086c68dd0",
+    "updated_at": "2026-10-14T19:18:29+05:30"
+  },
+  "prj_5e227e": {
+    "kind": "project",
+    "file": "content/projects/devcation-delhi-2026/bytefours.md",
+    "hash": "183f7e4efa6ef1ce",
+    "updated_at": "2026-10-14T19:17:51+05:30"
+  },
+  "prj_5f18a0": {
+    "kind": "project",
+    "file": "content/projects/agentic-graphrag-hackathon-2026/medal-mind-agent-round-1.md",
+    "hash": "ac1ee32aacaa565f",
+    "updated_at": "2026-10-14T19:18:57+05:30"
+  },
+  "prj_600891": {
+    "kind": "project",
+    "file": "content/projects/devcation-delhi-2026/techfire.md",
+    "hash": "4074da3dc00dceab",
+    "updated_at": "2026-10-14T19:20:31+05:30"
+  },
+  "prj_601deb": {
+    "kind": "project",
+    "file": "content/projects/devcation-delhi-2026/syntax-sages.md",
+    "hash": "05aa3602d711f37b",
+    "updated_at": "2026-10-14T19:20:31+05:30"
+  },
+  "prj_6080ec": {
+    "kind": "project",
+    "file": "content/projects/hacker-house-goa-2026/surjune-r-s.md",
+    "hash": "2c7cee7429eeeb9a",
+    "updated_at": "2026-10-14T19:18:58+05:30"
+  },
+  "prj_608bc5": {
+    "kind": "project",
+    "file": "content/projects/devcation-delhi-2026/skill-seekers.md",
+    "hash": "65e15067d143a71d",
+    "updated_at": "2026-10-14T19:17:52+05:30"
+  },
+  "prj_63d337": {
+    "kind": "project",
+    "file": "content/projects/hacker-house-goa-2026/arvyo.md",
+    "hash": "a7efa74eb4930f67",
+    "updated_at": "2026-10-14T19:18:58+05:30"
+  },
+  "prj_65fd4e": {
+    "kind": "project",
+    "file": "content/projects/graphrag-inference-hackathon-2026/team-yes-round-1.md",
+    "hash": "772b89378dd1b7b3",
+    "updated_at": "2026-10-14T19:18:30+05:30"
+  },
+  "prj_68ad1d": {
+    "kind": "project",
+    "file": "content/projects/graphrag-inference-hackathon-2026/udaan-nivan-dubey-round-1.md",
+    "hash": "7d87b37c6e26fbe2",
+    "updated_at": "2026-10-14T19:18:30+05:30"
+  },
+  "prj_695475": {
+    "kind": "project",
+    "file": "content/projects/agentic-graphrag-hackathon-2026/cicada-round-1.md",
+    "hash": "9475fd1caf44a31e",
+    "updated_at": "2026-10-14T19:18:47+05:30"
+  },
+  "prj_69cd9a": {
+    "kind": "project",
+    "file": "content/projects/devcation-delhi-2026/kingbhadawar0.md",
+    "hash": "7807e37288a67540",
+    "updated_at": "2026-10-14T19:20:31+05:30"
+  },
+  "prj_6a9930": {
+    "kind": "project",
+    "file": "content/projects/hacker-house-goa-2026/team-byteess.md",
+    "hash": "457085cbe0a5c15d",
+    "updated_at": "2026-10-14T19:18:58+05:30"
+  },
+  "prj_6c21ee": {
+    "kind": "project",
+    "file": "content/projects/devcation-delhi-2026/shubh-jain.md",
+    "hash": "f31cf82f46a9aca8",
+    "updated_at": "2026-10-14T19:17:52+05:30"
+  },
+  "prj_6de08c": {
+    "kind": "project",
+    "file": "content/projects/graphrag-inference-hackathon-2026/nexusrag-round-1.md",
+    "hash": "6d51af4ac824bc88",
+    "updated_at": "2026-10-14T19:18:29+05:30"
+  },
+  "prj_6de1cd": {
+    "kind": "project",
+    "file": "content/projects/graphrag-inference-hackathon-2026/tech-titans-round-1.md",
+    "hash": "632804eea0cfa487",
+    "updated_at": "2026-10-14T19:18:30+05:30"
+  },
+  "prj_6f648b": {
+    "kind": "project",
+    "file": "content/projects/agentic-graphrag-hackathon-2026/alphago-round-1.md",
+    "hash": "ba730168a54de6ca",
+    "updated_at": "2026-10-14T19:18:47+05:30"
+  },
+  "prj_6fb7d3": {
+    "kind": "project",
+    "file": "content/projects/agentic-graphrag-hackathon-2026/atharva-gote-round-1.md",
+    "hash": "0715d6983b03ee03",
+    "updated_at": "2026-10-14T19:18:57+05:30"
+  },
+  "prj_707dd4": {
+    "kind": "project",
+    "file": "content/projects/graphrag-inference-hackathon-2026/atharva-rajendra-kumbhar-round-3.md",
+    "hash": "73c7cea3310cb725",
+    "updated_at": "2026-10-14T19:18:57+05:30"
+  },
+  "prj_712944": {
+    "kind": "project",
+    "file": "content/projects/hacker-house-goa-2026/shaurya-upadhyay.md",
+    "hash": "b073967001389894",
+    "updated_at": "2026-10-14T19:20:46+05:30"
+  },
+  "prj_722e51": {
+    "kind": "project",
+    "file": "content/projects/devcation-delhi-2026/gridsentinals.md",
+    "hash": "30589202c658be2a",
+    "updated_at": "2026-10-14T19:20:31+05:30"
+  },
+  "prj_73ee4b": {
+    "kind": "project",
+    "file": "content/projects/hacker-house-goa-2026/env-variables.md",
+    "hash": "8f34586816119b57",
+    "updated_at": "2026-10-14T19:20:46+05:30"
+  },
+  "prj_744412": {
+    "kind": "project",
+    "file": "content/projects/hacker-house-goa-2026/psyduck.md",
+    "hash": "4a4062f638c17c52",
+    "updated_at": "2026-10-14T19:20:46+05:30"
+  },
+  "prj_7472e2": {
+    "kind": "project",
+    "file": "content/projects/devcation-delhi-2026/btech-baddiess.md",
+    "hash": "cfbd43ef436ee474",
+    "updated_at": "2026-10-14T19:17:51+05:30"
+  },
+  "prj_7526af": {
+    "kind": "project",
+    "file": "content/projects/devcation-delhi-2026/ai-avengers.md",
+    "hash": "1f47e61defe18d8d",
+    "updated_at": "2026-10-14T19:17:51+05:30"
+  },
+  "prj_75433e": {
+    "kind": "project",
+    "file": "content/projects/devcation-delhi-2026/quantum-quads.md",
+    "hash": "fcd80da0b30e98a7",
+    "updated_at": "2026-10-14T19:17:52+05:30"
+  },
+  "prj_7582d0": {
+    "kind": "project",
+    "file": "content/projects/devcation-delhi-2026/zackers.md",
+    "hash": "b3afd68ebdaa32a0",
+    "updated_at": "2026-10-14T19:17:52+05:30"
+  },
+  "prj_75bc91": {
+    "kind": "project",
+    "file": "content/projects/graphrag-inference-hackathon-2026/lone-spartan-indra-kumar-malviya-round-1.md",
+    "hash": "f112b384572b0439",
+    "updated_at": "2026-10-14T19:18:29+05:30"
+  },
+  "prj_763187": {
+    "kind": "project",
+    "file": "content/projects/graphrag-inference-hackathon-2026/global-coders-round-1.md",
+    "hash": "f984cbb73dc734a9",
+    "updated_at": "2026-10-14T19:18:29+05:30"
+  },
+  "prj_765404": {
+    "kind": "project",
+    "file": "content/projects/devcation-delhi-2026/medi-minds.md",
+    "hash": "6085e371c3218bec",
+    "updated_at": "2026-10-14T19:20:31+05:30"
+  },
+  "prj_77a555": {
+    "kind": "project",
+    "file": "content/projects/hacker-house-goa-2026/404syndicate.md",
+    "hash": "7e8f6e2e773babea",
+    "updated_at": "2026-10-14T19:20:46+05:30"
+  },
+  "prj_782f05": {
+    "kind": "project",
+    "file": "content/projects/devcation-delhi-2026/charmander.md",
+    "hash": "ec4f771205519820",
+    "updated_at": "2026-10-14T19:17:51+05:30"
+  },
+  "prj_7b781f": {
+    "kind": "project",
+    "file": "content/projects/agentic-graphrag-hackathon-2026/h-ctivator-round-1.md",
+    "hash": "93c0c6571a1698fe",
+    "updated_at": "2026-10-14T19:18:57+05:30"
+  },
+  "prj_7bbf5f": {
+    "kind": "project",
+    "file": "content/projects/graphrag-inference-hackathon-2026/samhith-v-gupta-round-1.md",
+    "hash": "a3ebcf6a90dacddb",
+    "updated_at": "2026-10-14T19:18:29+05:30"
+  },
+  "prj_7d3507": {
+    "kind": "project",
+    "file": "content/projects/graphrag-inference-hackathon-2026/bug-free-round-1.md",
+    "hash": "251b8163bea130d8",
+    "updated_at": "2026-10-14T19:19:42+05:30"
+  },
+  "prj_7f716e": {
+    "kind": "project",
+    "file": "content/projects/agentic-graphrag-hackathon-2026/livona-dsouza-team-name-sumoseye-round-1.md",
+    "hash": "7086fbf9aa6cda4c",
+    "updated_at": "2026-10-14T19:18:47+05:30"
+  },
+  "prj_80ac12": {
+    "kind": "project",
+    "file": "content/projects/graphrag-inference-hackathon-2026/jeswant-pm-round-1.md",
+    "hash": "c0d8267e6a141bd0",
+    "updated_at": "2026-10-14T19:18:29+05:30"
+  },
+  "prj_80d4dc": {
+    "kind": "project",
+    "file": "content/projects/devcation-delhi-2026/aura.md",
+    "hash": "28abe7b4e4c20e2d",
+    "updated_at": "2026-10-14T19:17:51+05:30"
+  },
+  "prj_818879": {
+    "kind": "project",
+    "file": "content/projects/graphrag-inference-hackathon-2026/team-blue-abhinay-pratap-singh-round-2.md",
+    "hash": "8e6e4f49b0e1aacb",
+    "updated_at": "2026-10-14T19:18:57+05:30"
+  },
+  "prj_81999a": {
+    "kind": "project",
+    "file": "content/projects/agentic-graphrag-hackathon-2026/agentx-round-1.md",
+    "hash": "4db05e9fcd356ca3",
+    "updated_at": "2026-10-14T19:18:47+05:30"
+  },
+  "prj_81da16": {
+    "kind": "project",
+    "file": "content/projects/devcation-delhi-2026/bella-ciao.md",
+    "hash": "9e7a896e7d71ac79",
+    "updated_at": "2026-10-14T19:20:31+05:30"
+  },
+  "prj_8284ff": {
+    "kind": "project",
+    "file": "content/projects/agentic-graphrag-hackathon-2026/shadow-forces-round-1.md",
+    "hash": "a5533954ad64a956",
+    "updated_at": "2026-10-14T19:18:47+05:30"
+  },
+  "prj_83db31": {
+    "kind": "project",
+    "file": "content/projects/devcation-delhi-2026/zenith-2.md",
+    "hash": "270fb7f2cd73b405",
+    "updated_at": "2026-10-14T19:20:31+05:30"
+  },
+  "prj_84aa50": {
+    "kind": "project",
+    "file": "content/projects/devcation-delhi-2026/oblivion.md",
+    "hash": "eda03bac63dae55e",
+    "updated_at": "2026-10-14T19:17:52+05:30"
+  },
+  "prj_84d30a": {
+    "kind": "project",
+    "file": "content/projects/graphrag-inference-hackathon-2026/madhvi-rathore-round-1.md",
+    "hash": "ccbe27d14468ea9c",
+    "updated_at": "2026-10-14T19:18:29+05:30"
+  },
+  "prj_86411e": {
+    "kind": "project",
+    "file": "content/projects/hacker-house-goa-2026/team-ex.md",
+    "hash": "5872f4cc0191df68",
+    "updated_at": "2026-10-14T19:18:58+05:30"
+  },
+  "prj_876ff2": {
+    "kind": "project",
+    "file": "content/projects/devcation-delhi-2026/logic-legends.md",
+    "hash": "9afeb84214a066b2",
+    "updated_at": "2026-10-14T19:20:31+05:30"
+  },
+  "prj_88aaa4": {
+    "kind": "project",
+    "file": "content/projects/hacker-house-goa-2026/bug-bunnies.md",
+    "hash": "09e24ec3f8125ff5",
+    "updated_at": "2026-10-14T19:18:58+05:30"
+  },
+  "prj_8a1200": {
+    "kind": "project",
+    "file": "content/projects/graphrag-inference-hackathon-2026/singular-dev-debabrata-pattnayak-round-1.md",
+    "hash": "94c5356c48615548",
+    "updated_at": "2026-10-14T19:18:30+05:30"
+  },
+  "prj_8a4a08": {
+    "kind": "project",
+    "file": "content/projects/graphrag-inference-hackathon-2026/zero-flexing-round-1.md",
+    "hash": "69b24d150d43350d",
+    "updated_at": "2026-10-14T19:18:30+05:30"
+  },
+  "prj_8c2cad": {
+    "kind": "project",
+    "file": "content/projects/graphrag-inference-hackathon-2026/nextin-dhruv-pandey-round-1.md",
+    "hash": "bb2aa2fe5eda7767",
+    "updated_at": "2026-10-14T19:38:11+05:30"
+  },
+  "prj_8ce153": {
+    "kind": "project",
+    "file": "content/projects/agentic-graphrag-hackathon-2026/sidharth-s-n-round-1.md",
+    "hash": "1ff4af3a396cddb1",
+    "updated_at": "2026-10-14T19:20:44+05:30"
+  },
+  "prj_8d2303": {
+    "kind": "project",
+    "file": "content/projects/devcation-delhi-2026/teamoxygen.md",
+    "hash": "18ede8fe9341823f",
+    "updated_at": "2026-10-14T19:17:52+05:30"
+  },
+  "prj_8ded19": {
+    "kind": "project",
+    "file": "content/projects/agentic-graphrag-hackathon-2026/team-doomsday-tushar-kaldate-round-1.md",
+    "hash": "d5cd98dedc2742fc",
+    "updated_at": "2026-10-14T19:18:57+05:30"
+  },
+  "prj_8e1bde": {
+    "kind": "project",
+    "file": "content/projects/agentic-graphrag-hackathon-2026/graphxai-round-1.md",
+    "hash": "941d90ee5b567f63",
+    "updated_at": "2026-10-14T19:18:47+05:30"
+  },
+  "prj_915dde": {
+    "kind": "project",
+    "file": "content/projects/graphrag-inference-hackathon-2026/utkarsh-round-1.md",
+    "hash": "22c4cd789237e137",
+    "updated_at": "2026-10-14T19:18:30+05:30"
+  },
+  "prj_93f10d": {
+    "kind": "project",
+    "file": "content/projects/agentic-graphrag-hackathon-2026/markdown-round-1.md",
+    "hash": "b9c9223dfa7da975",
+    "updated_at": "2026-10-14T19:18:57+05:30"
+  },
+  "prj_967f26": {
+    "kind": "project",
+    "file": "content/projects/agentic-graphrag-hackathon-2026/neural-navigators-round-1.md",
+    "hash": "f5ab0f3d8885d904",
+    "updated_at": "2026-10-14T19:18:47+05:30"
+  },
+  "prj_993fd3": {
+    "kind": "project",
+    "file": "content/projects/hacker-house-goa-2026/utkarsh-arjariya.md",
+    "hash": "0ed8ee5039fe313b",
+    "updated_at": "2026-10-14T19:20:46+05:30"
+  },
+  "prj_999236": {
+    "kind": "project",
+    "file": "content/projects/agentic-graphrag-hackathon-2026/parzivalprime-round-1.md",
+    "hash": "7312bbcc6f6cba85",
+    "updated_at": "2026-10-14T19:18:57+05:30"
+  },
+  "prj_99b406": {
+    "kind": "project",
+    "file": "content/projects/agentic-graphrag-hackathon-2026/deepak-r-round-1.md",
+    "hash": "c144e3527eaba46b",
+    "updated_at": "2026-10-14T19:18:47+05:30"
+  },
+  "prj_99c335": {
+    "kind": "project",
+    "file": "content/projects/hacker-house-goa-2026/adarsh-velmurugan.md",
+    "hash": "05fc1a53ff7f2ec5",
+    "updated_at": "2026-10-14T19:18:58+05:30"
+  },
+  "prj_9c9f97": {
+    "kind": "project",
+    "file": "content/projects/devcation-delhi-2026/graphites.md",
+    "hash": "42016834f43b9cd0",
+    "updated_at": "2026-10-14T19:20:31+05:30"
+  },
+  "prj_9cb6b2": {
+    "kind": "project",
+    "file": "content/projects/graphrag-inference-hackathon-2026/bytecode-round-1.md",
+    "hash": "5088008a8b043d26",
+    "updated_at": "2026-10-14T19:19:42+05:30"
+  },
+  "prj_9d9570": {
+    "kind": "project",
+    "file": "content/projects/graphrag-inference-hackathon-2026/enzo-round-1.md",
+    "hash": "26bcd45eb3193724",
+    "updated_at": "2026-10-14T19:18:29+05:30"
+  },
+  "prj_9daf42": {
+    "kind": "project",
+    "file": "content/projects/graphrag-inference-hackathon-2026/winner-round-1.md",
+    "hash": "dc23376b110d5de9",
+    "updated_at": "2026-10-14T19:38:11+05:30"
+  },
+  "prj_9ea415": {
+    "kind": "project",
+    "file": "content/projects/graphrag-inference-hackathon-2026/akansha-mishra-round-1.md",
+    "hash": "0896ad8ded8f35d7",
+    "updated_at": "2026-10-14T19:18:29+05:30"
+  },
+  "prj_9eba95": {
+    "kind": "project",
+    "file": "content/projects/graphrag-inference-hackathon-2026/team-neighbors-pankaja-and-sanjam-round-1.md",
+    "hash": "106871dafab20570",
+    "updated_at": "2026-10-14T19:18:30+05:30"
+  },
+  "prj_9f7268": {
+    "kind": "project",
+    "file": "content/projects/devcation-delhi-2026/forgefox.md",
+    "hash": "2efcfdb3b28fe820",
+    "updated_at": "2026-10-14T19:20:31+05:30"
+  },
+  "prj_9f8ef3": {
+    "kind": "project",
+    "file": "content/projects/graphrag-inference-hackathon-2026/aayush-round-3.md",
+    "hash": "49d2e0aa9fdd3fb4",
+    "updated_at": "2026-10-14T19:30:07+05:30"
+  },
+  "prj_9ff739": {
+    "kind": "project",
+    "file": "content/projects/hacker-house-goa-2026/techfalcons.md",
+    "hash": "8db44b4536baed9a",
+    "updated_at": "2026-10-14T19:18:58+05:30"
+  },
+  "prj_a018d1": {
+    "kind": "project",
+    "file": "content/projects/graphrag-inference-hackathon-2026/mastergraph-round-2.md",
+    "hash": "9917755a678d3a49",
+    "updated_at": "2026-10-14T19:30:07+05:30"
+  },
+  "prj_a04825": {
+    "kind": "project",
+    "file": "content/projects/graphrag-inference-hackathon-2026/team-nyn-round-1.md",
+    "hash": "d3d04b015629f511",
+    "updated_at": "2026-10-14T19:18:30+05:30"
+  },
+  "prj_a08de1": {
+    "kind": "project",
+    "file": "content/projects/graphrag-inference-hackathon-2026/jeswant-pm-round-3.md",
+    "hash": "280b124027c38fed",
+    "updated_at": "2026-10-14T19:18:57+05:30"
+  },
+  "prj_a11ba0": {
+    "kind": "project",
+    "file": "content/projects/devcation-delhi-2026/sigmoid.md",
+    "hash": "416b7e4b2eec75f6",
+    "updated_at": "2026-10-14T19:20:31+05:30"
+  },
+  "prj_a16ba8": {
+    "kind": "project",
+    "file": "content/projects/graphrag-inference-hackathon-2026/team-blue-round-1.md",
+    "hash": "86ad9c0387e83065",
+    "updated_at": "2026-10-14T19:18:30+05:30"
+  },
+  "prj_a4e902": {
+    "kind": "project",
+    "file": "content/projects/devcation-delhi-2026/hackherz.md",
+    "hash": "28d79307b7b828e0",
+    "updated_at": "2026-10-14T19:20:31+05:30"
+  },
+  "prj_a647b0": {
+    "kind": "project",
+    "file": "content/projects/devcation-delhi-2026/www-parthtiwari.md",
+    "hash": "54622f195a433e1e",
+    "updated_at": "2026-10-14T19:17:52+05:30"
+  },
+  "prj_a6fc02": {
+    "kind": "project",
+    "file": "content/projects/hacker-house-goa-2026/exponentium.md",
+    "hash": "7996addba7c62885",
+    "updated_at": "2026-10-14T19:20:46+05:30"
+  },
+  "prj_a76fab": {
+    "kind": "project",
+    "file": "content/projects/agentic-graphrag-hackathon-2026/ruchita-nimkar-round-1.md",
+    "hash": "c0aa9907246b0bdb",
+    "updated_at": "2026-10-14T19:18:57+05:30"
+  },
+  "prj_a9e7b2": {
+    "kind": "project",
+    "file": "content/projects/agentic-graphrag-hackathon-2026/code-blooded-round-1.md",
+    "hash": "55795bf14fed1038",
+    "updated_at": "2026-10-14T19:19:48+05:30"
+  },
+  "prj_aaf3df": {
+    "kind": "project",
+    "file": "content/projects/graphrag-inference-hackathon-2026/krsna-round-1.md",
+    "hash": "fe00ad297dbe1559",
+    "updated_at": "2026-10-14T19:18:29+05:30"
+  },
+  "prj_ab0150": {
+    "kind": "project",
+    "file": "content/projects/graphrag-inference-hackathon-2026/team-blank-round-1.md",
+    "hash": "24b65809fec6b8d6",
+    "updated_at": "2026-10-14T19:18:30+05:30"
+  },
+  "prj_ab935a": {
+    "kind": "project",
+    "file": "content/projects/graphrag-inference-hackathon-2026/mastermind-kumaraguru-v-s-round-2.md",
+    "hash": "e373db1513b6235a",
+    "updated_at": "2026-10-14T19:30:07+05:30"
+  },
+  "prj_ac0964": {
+    "kind": "project",
+    "file": "content/projects/devcation-delhi-2026/kill-bill.md",
+    "hash": "3b420c366706ba5b",
+    "updated_at": "2026-10-14T19:17:51+05:30"
+  },
+  "prj_ac0eaa": {
+    "kind": "project",
+    "file": "content/projects/hacker-house-goa-2026/leconhinton.md",
+    "hash": "aa0f5c219ad56a25",
+    "updated_at": "2026-10-14T19:18:58+05:30"
+  },
+  "prj_ad832d": {
+    "kind": "project",
+    "file": "content/projects/agentic-graphrag-hackathon-2026/anant-kumar-round-1.md",
+    "hash": "a76005a28f6bfa24",
+    "updated_at": "2026-10-14T19:18:57+05:30"
+  },
+  "prj_aef7f3": {
+    "kind": "project",
+    "file": "content/projects/devcation-delhi-2026/neuroverse.md",
+    "hash": "930c087ab3bd642a",
+    "updated_at": "2026-10-14T19:20:31+05:30"
+  },
+  "prj_af9c2e": {
+    "kind": "project",
+    "file": "content/projects/graphrag-inference-hackathon-2026/fortec-round-1.md",
+    "hash": "49a743797480847c",
+    "updated_at": "2026-10-14T19:18:29+05:30"
+  },
+  "prj_b177ea": {
+    "kind": "project",
+    "file": "content/projects/graphrag-inference-hackathon-2026/codomaniacs-shyam-sarath-s-p-round-1.md",
+    "hash": "3609bf8aba6077b7",
+    "updated_at": "2026-10-14T19:18:29+05:30"
+  },
+  "prj_b19466": {
+    "kind": "project",
+    "file": "content/projects/agentic-graphrag-hackathon-2026/shashank-kumar-round-1.md",
+    "hash": "5482570ed9e70f29",
+    "updated_at": "2026-10-14T19:18:47+05:30"
+  },
+  "prj_b44167": {
+    "kind": "project",
+    "file": "content/projects/graphrag-inference-hackathon-2026/vortex-round-1.md",
+    "hash": "2d90880e9f795b9d",
+    "updated_at": "2026-10-14T19:18:30+05:30"
+  },
+  "prj_b5206f": {
+    "kind": "project",
+    "file": "content/projects/devcation-delhi-2026/trac.md",
+    "hash": "ebd243de7fcd9f37",
+    "updated_at": "2026-10-14T19:20:31+05:30"
+  },
+  "prj_b56128": {
+    "kind": "project",
+    "file": "content/projects/graphrag-inference-hackathon-2026/nextin-dhruv-pandey-round-3.md",
+    "hash": "54317af02113035e",
+    "updated_at": "2026-10-14T19:18:57+05:30"
+  },
+  "prj_b56b47": {
+    "kind": "project",
+    "file": "content/projects/graphrag-inference-hackathon-2026/raggers-himank-parashar-round-1.md",
+    "hash": "66940955b33a8760",
+    "updated_at": "2026-10-14T19:18:29+05:30"
+  },
+  "prj_b62bce": {
+    "kind": "project",
+    "file": "content/projects/devcation-delhi-2026/chakra.md",
+    "hash": "4b0dad4f68934c43",
+    "updated_at": "2026-10-14T19:17:51+05:30"
+  },
+  "prj_b6f235": {
+    "kind": "project",
+    "file": "content/projects/hacker-house-goa-2026/ex-dietcode.md",
+    "hash": "b278fd0f2437a3ba",
+    "updated_at": "2026-10-14T19:18:58+05:30"
+  },
+  "prj_b704c1": {
+    "kind": "project",
+    "file": "content/projects/hacker-house-goa-2026/collabup.md",
+    "hash": "801630bbbf4ded88",
+    "updated_at": "2026-10-14T19:18:58+05:30"
+  },
+  "prj_b9aa50": {
+    "kind": "project",
+    "file": "content/projects/agentic-graphrag-hackathon-2026/riseon-round-1.md",
+    "hash": "4e76bade579bfc38",
+    "updated_at": "2026-10-14T19:18:57+05:30"
+  },
+  "prj_bac68e": {
+    "kind": "project",
+    "file": "content/projects/agentic-graphrag-hackathon-2026/double-trouble-round-1.md",
+    "hash": "b87493ff1b255583",
+    "updated_at": "2026-10-14T19:18:57+05:30"
+  },
+  "prj_bb58a6": {
+    "kind": "project",
+    "file": "content/projects/graphrag-inference-hackathon-2026/bhuvaneshwari-d-round-1.md",
+    "hash": "d5515bc36cd63df3",
+    "updated_at": "2026-10-14T19:18:29+05:30"
+  },
+  "prj_be72b0": {
+    "kind": "project",
+    "file": "content/projects/devcation-delhi-2026/wehavetowin.md",
+    "hash": "d86aa14a75eb43aa",
+    "updated_at": "2026-10-14T19:17:52+05:30"
+  },
+  "prj_c26fb3": {
+    "kind": "project",
+    "file": "content/projects/graphrag-inference-hackathon-2026/bella-ciao-round-1.md",
+    "hash": "58ccbf533a7a7f4e",
+    "updated_at": "2026-10-14T19:18:29+05:30"
+  },
+  "prj_c2d521": {
+    "kind": "project",
+    "file": "content/projects/devcation-delhi-2026/bravo-x.md",
+    "hash": "270d8d6f2df65854",
+    "updated_at": "2026-10-14T19:17:51+05:30"
+  },
+  "prj_c3d655": {
+    "kind": "project",
+    "file": "content/projects/graphrag-inference-hackathon-2026/sri-lakshmi-polavarapu-round-1.md",
+    "hash": "e086848b6bb7c7ff",
+    "updated_at": "2026-10-14T19:38:12+05:30"
+  },
+  "prj_c5f130": {
+    "kind": "project",
+    "file": "content/projects/devcation-delhi-2026/code4cause.md",
+    "hash": "2e28ec199729182f",
+    "updated_at": "2026-10-14T19:17:51+05:30"
+  },
+  "prj_c69f1a": {
+    "kind": "project",
+    "file": "content/projects/graphrag-inference-hackathon-2026/expelliarmus-round-1.md",
+    "hash": "ec2f7690f6271898",
+    "updated_at": "2026-10-14T19:18:29+05:30"
+  },
+  "prj_c72c7f": {
+    "kind": "project",
+    "file": "content/projects/devcation-delhi-2026/trial-error.md",
+    "hash": "bc147b81a7105186",
+    "updated_at": "2026-10-14T19:20:31+05:30"
+  },
+  "prj_c8ec17": {
+    "kind": "project",
+    "file": "content/projects/devcation-delhi-2026/imharshita30.md",
+    "hash": "9ac369213c44b0e8",
+    "updated_at": "2026-10-14T19:17:51+05:30"
+  },
+  "prj_ca38d2": {
+    "kind": "project",
+    "file": "content/projects/devcation-delhi-2026/sejlyn2006.md",
+    "hash": "c7912fb196221622",
+    "updated_at": "2026-10-14T19:17:52+05:30"
+  },
+  "prj_cffcef": {
+    "kind": "project",
+    "file": "content/projects/devcation-delhi-2026/mayank-mishra.md",
+    "hash": "f4d864f0264d7f4a",
+    "updated_at": "2026-10-14T19:20:31+05:30"
+  },
+  "prj_d19a31": {
+    "kind": "project",
+    "file": "content/projects/agentic-graphrag-hackathon-2026/techx-round-1.md",
+    "hash": "bd3973bb353b04e0",
+    "updated_at": "2026-10-14T19:18:57+05:30"
+  },
+  "prj_d1dac8": {
+    "kind": "project",
+    "file": "content/projects/graphrag-inference-hackathon-2026/kalaiyarasan-p-round-1.md",
+    "hash": "cbc51bb6e44d6dd4",
+    "updated_at": "2026-10-14T19:18:29+05:30"
+  },
+  "prj_d1ed0f": {
+    "kind": "project",
+    "file": "content/projects/graphrag-inference-hackathon-2026/graphers-round-1.md",
+    "hash": "a58e41a87177414a",
+    "updated_at": "2026-10-14T19:18:29+05:30"
+  },
+  "prj_d22f63": {
+    "kind": "project",
+    "file": "content/projects/graphrag-inference-hackathon-2026/ghuiya-ke-phool-livona-dsouza-shivansh-sharma-round-1.md",
+    "hash": "403a607fa8f8c41d",
+    "updated_at": "2026-10-14T19:19:42+05:30"
+  },
+  "prj_d30452": {
+    "kind": "project",
+    "file": "content/projects/devcation-delhi-2026/code-warriors.md",
+    "hash": "87459f3ad91c9162",
+    "updated_at": "2026-10-14T19:20:31+05:30"
+  },
+  "prj_d3573e": {
+    "kind": "project",
+    "file": "content/projects/agentic-graphrag-hackathon-2026/debuggerz-round-1.md",
+    "hash": "102d18ce382c1d7c",
+    "updated_at": "2026-10-14T19:19:48+05:30"
+  },
+  "prj_d456fe": {
+    "kind": "project",
+    "file": "content/projects/devcation-delhi-2026/graph-sorcerers.md",
+    "hash": "d2ee7a2cad6e007d",
+    "updated_at": "2026-10-14T19:20:31+05:30"
+  },
+  "prj_d58780": {
+    "kind": "project",
+    "file": "content/projects/agentic-graphrag-hackathon-2026/branded-round-1.md",
+    "hash": "02e84c1a08cd035d",
+    "updated_at": "2026-10-14T19:18:57+05:30"
+  },
+  "prj_d61f36": {
+    "kind": "project",
+    "file": "content/projects/agentic-graphrag-hackathon-2026/coding-ninjas-round-1.md",
+    "hash": "9c5ccb2985055d22",
+    "updated_at": "2026-10-14T19:18:57+05:30"
+  },
+  "prj_d7b62b": {
+    "kind": "project",
+    "file": "content/projects/graphrag-inference-hackathon-2026/graphqlz-round-1.md",
+    "hash": "97a036260cea69af",
+    "updated_at": "2026-10-14T19:18:29+05:30"
+  },
+  "prj_d87691": {
+    "kind": "project",
+    "file": "content/projects/devcation-delhi-2026/binary-brains-2-0.md",
+    "hash": "fa5ae71580b11849",
+    "updated_at": "2026-10-14T19:20:31+05:30"
+  },
+  "prj_d9d8b9": {
+    "kind": "project",
+    "file": "content/projects/agentic-graphrag-hackathon-2026/hotty-fi5e-round-1.md",
+    "hash": "17d3722c25c4852f",
+    "updated_at": "2026-10-14T19:18:47+05:30"
+  },
+  "prj_da9f04": {
+    "kind": "project",
+    "file": "content/projects/graphrag-inference-hackathon-2026/shreyas-biware-round-1.md",
+    "hash": "846420cff2632c0e",
+    "updated_at": "2026-10-14T19:18:29+05:30"
+  },
+  "prj_daa5a7": {
+    "kind": "project",
+    "file": "content/projects/devcation-delhi-2026/codeclarity.md",
+    "hash": "b5ed36b168fdff89",
+    "updated_at": "2026-10-14T19:17:51+05:30"
+  },
+  "prj_dab247": {
+    "kind": "project",
+    "file": "content/projects/graphrag-inference-hackathon-2026/haramballers-round-1.md",
+    "hash": "e2f841cc2546bcc9",
+    "updated_at": "2026-10-14T19:18:29+05:30"
+  },
+  "prj_dbe95f": {
+    "kind": "project",
+    "file": "content/projects/devcation-delhi-2026/codies.md",
+    "hash": "4181bad30ec722eb",
+    "updated_at": "2026-10-14T19:20:31+05:30"
+  },
+  "prj_dcb9d9": {
+    "kind": "project",
+    "file": "content/projects/graphrag-inference-hackathon-2026/crag-round-1.md",
+    "hash": "5923b70c15497d7f",
+    "updated_at": "2026-10-14T19:18:29+05:30"
+  },
+  "prj_dd4356": {
+    "kind": "project",
+    "file": "content/projects/agentic-graphrag-hackathon-2026/r-kayalvizhi-round-1.md",
+    "hash": "bf62b099d0b473b4",
+    "updated_at": "2026-10-14T19:18:57+05:30"
+  },
+  "prj_de153a": {
+    "kind": "project",
+    "file": "content/projects/graphrag-inference-hackathon-2026/med-ai-lochan-visnu-cheluvaiahgal-round-1.md",
+    "hash": "542d729b65fc051b",
+    "updated_at": "2026-10-14T19:18:29+05:30"
+  },
+  "prj_de4b4e": {
+    "kind": "project",
+    "file": "content/projects/graphrag-inference-hackathon-2026/codessip-round-1.md",
+    "hash": "8ab3216cb8438f43",
+    "updated_at": "2026-10-14T19:18:29+05:30"
+  },
+  "prj_dfd0cb": {
+    "kind": "project",
+    "file": "content/projects/agentic-graphrag-hackathon-2026/aidlc-round-1.md",
+    "hash": "1d336629c269bff5",
+    "updated_at": "2026-10-14T19:18:57+05:30"
+  },
+  "prj_e083f3": {
+    "kind": "project",
+    "file": "content/projects/agentic-graphrag-hackathon-2026/stellium-solo-philip-simon-derock-round-1.md",
+    "hash": "0a67371bdb3d88dc",
+    "updated_at": "2026-10-14T19:18:57+05:30"
+  },
+  "prj_e23d29": {
+    "kind": "project",
+    "file": "content/projects/devcation-delhi-2026/terminal-thrivers.md",
+    "hash": "eeb4157a6ed96cb5",
+    "updated_at": "2026-10-14T19:17:52+05:30"
+  },
+  "prj_e2871d": {
+    "kind": "project",
+    "file": "content/projects/hacker-house-goa-2026/wohoo.md",
+    "hash": "91c004151c68b610",
+    "updated_at": "2026-10-14T19:20:46+05:30"
+  },
+  "prj_e3d5d8": {
+    "kind": "project",
+    "file": "content/projects/hacker-house-goa-2026/algorhythms.md",
+    "hash": "75e33d7555d475d1",
+    "updated_at": "2026-10-14T19:18:58+05:30"
+  },
+  "prj_e451c1": {
+    "kind": "project",
+    "file": "content/projects/devcation-delhi-2026/s-y-s-d.md",
+    "hash": "1c7c20874b9845ad",
+    "updated_at": "2026-10-14T19:17:52+05:30"
+  },
+  "prj_e59a38": {
+    "kind": "project",
+    "file": "content/projects/agentic-graphrag-hackathon-2026/bolt-heads-round-1.md",
+    "hash": "df00a7d3b0888512",
+    "updated_at": "2026-10-14T19:18:47+05:30"
+  },
+  "prj_e64c1c": {
+    "kind": "project",
+    "file": "content/projects/devcation-delhi-2026/code-blooded.md",
+    "hash": "e9039c75d26418cb",
+    "updated_at": "2026-10-14T19:20:31+05:30"
+  },
+  "prj_e6a3d5": {
+    "kind": "project",
+    "file": "content/projects/graphrag-inference-hackathon-2026/lost-the-plot-round-1.md",
+    "hash": "94303fbdfc3c2701",
+    "updated_at": "2026-10-14T19:18:29+05:30"
+  },
+  "prj_e7629b": {
+    "kind": "project",
+    "file": "content/projects/graphrag-inference-hackathon-2026/brocode-vishnu-k-revanth-m-round-1.md",
+    "hash": "dd348c47bd3ee1c7",
+    "updated_at": "2026-10-14T19:38:11+05:30"
+  },
+  "prj_eaa77f": {
+    "kind": "project",
+    "file": "content/projects/graphrag-inference-hackathon-2026/ragonauts-p-loksai-round-1.md",
+    "hash": "819dd19bfe6a1c04",
+    "updated_at": "2026-10-14T19:18:29+05:30"
+  },
+  "prj_ec57b9": {
+    "kind": "project",
+    "file": "content/projects/graphrag-inference-hackathon-2026/mehak-priyadarshi-round-1.md",
+    "hash": "1ae6fa9225d37092",
+    "updated_at": "2026-10-14T19:18:29+05:30"
+  },
+  "prj_ec70e4": {
+    "kind": "project",
+    "file": "content/projects/graphrag-inference-hackathon-2026/yaramati-teja-sai-sampath-round-1.md",
+    "hash": "49c86c32ae69c19a",
+    "updated_at": "2026-10-14T19:18:30+05:30"
+  },
+  "prj_ec8cb6": {
+    "kind": "project",
+    "file": "content/projects/graphrag-inference-hackathon-2026/atharva-ravindra-yeole-round-1.md",
+    "hash": "9b1e16f53e321d0f",
+    "updated_at": "2026-10-14T19:18:29+05:30"
+  },
+  "prj_ee743f": {
+    "kind": "project",
+    "file": "content/projects/agentic-graphrag-hackathon-2026/navadrishti-round-1.md",
+    "hash": "710b7150573c6095",
+    "updated_at": "2026-10-14T19:18:47+05:30"
+  },
+  "prj_eefd02": {
+    "kind": "project",
+    "file": "content/projects/agentic-graphrag-hackathon-2026/team-hackers-round-1.md",
+    "hash": "527ee2f0fbed7240",
+    "updated_at": "2026-10-14T19:18:47+05:30"
+  },
+  "prj_ef375a": {
+    "kind": "project",
+    "file": "content/projects/graphrag-inference-hackathon-2026/rising-stars-round-1.md",
+    "hash": "5027daa8fec5c407",
+    "updated_at": "2026-10-14T19:18:29+05:30"
+  },
+  "prj_ef833c": {
+    "kind": "project",
+    "file": "content/projects/graphrag-inference-hackathon-2026/naveena-d-round-1.md",
+    "hash": "7f28b4de82e82c69",
+    "updated_at": "2026-10-14T19:18:29+05:30"
+  },
+  "prj_efb590": {
+    "kind": "project",
+    "file": "content/projects/agentic-graphrag-hackathon-2026/optimus-rag-round-1.md",
+    "hash": "b0a902795274fa40",
+    "updated_at": "2026-10-14T19:18:57+05:30"
+  },
+  "prj_f2d7d4": {
+    "kind": "project",
+    "file": "content/projects/hacker-house-goa-2026/teen-dost.md",
+    "hash": "7c81f93f892161ef",
+    "updated_at": "2026-10-14T19:18:58+05:30"
+  },
+  "prj_f6b92d": {
+    "kind": "project",
+    "file": "content/projects/graphrag-inference-hackathon-2026/mahakisore-m-round-1.md",
+    "hash": "4df46930ec4546c0",
+    "updated_at": "2026-10-14T19:18:29+05:30"
+  },
+  "prj_f72d3c": {
+    "kind": "project",
+    "file": "content/projects/devcation-delhi-2026/finverse.md",
+    "hash": "2c175ce92e4a6a5c",
+    "updated_at": "2026-10-14T19:17:51+05:30"
+  },
+  "prj_f7dcde": {
+    "kind": "project",
+    "file": "content/projects/hacker-house-goa-2026/goblins.md",
+    "hash": "c494ab279f1d9c8e",
+    "updated_at": "2026-10-14T19:18:58+05:30"
+  },
+  "prj_f8ebe0": {
+    "kind": "project",
+    "file": "content/projects/agentic-graphrag-hackathon-2026/kommavarapu-kameswari-sreevalli-round-1.md",
+    "hash": "249268faaad4fe28",
+    "updated_at": "2026-10-14T19:18:47+05:30"
+  },
+  "prj_fb0711": {
+    "kind": "project",
+    "file": "content/projects/graphrag-inference-hackathon-2026/graphters-chunduru-monish-sai-abhiram-round-1.md",
+    "hash": "b8d216a611a9136d",
+    "updated_at": "2026-10-14T19:18:29+05:30"
+  },
+  "prj_fb5a4d": {
+    "kind": "project",
+    "file": "content/projects/graphrag-inference-hackathon-2026/riseon-round-3.md",
+    "hash": "a6356eba0d90f259",
+    "updated_at": "2026-10-14T19:18:57+05:30"
+  },
+  "prj_ffbc2d": {
+    "kind": "project",
+    "file": "content/projects/graphrag-inference-hackathon-2026/ragnarok-round-1.md",
+    "hash": "0020db782628ca5b",
+    "updated_at": "2026-10-14T19:18:29+05:30"
+  }
+}

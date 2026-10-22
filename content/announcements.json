@@ -1,0 +1,17 @@
+{
+  "_help": "Website-only 'coming soon' cards shown with upcoming events. Not sent to DevHub. Remove an item once it becomes a real event.",
+  "coming_soon": [
+    {
+      "emoji": "🔜",
+      "label": "Coming soon",
+      "title": "TigerGraph Open Source Initiative",
+      "description": "Something new for the open source community is on its way from the TigerGraph DevRel team. Stay tuned for details."
+    },
+    {
+      "emoji": "🔜",
+      "label": "Coming soon",
+      "title": "University Meetups & Workshops",
+      "description": "Campus meetups, hands-on graph workshops and more are on the way from the TigerGraph DevRel team. Dates and places will be announced here."
+    }
+  ]
+}
