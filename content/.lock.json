@@ -13,13 +13,6 @@
     "hash": "e9b2899cf3154637",
     "updated_at": "2026-10-16T21:23:21+05:30"
   },
-  "blg_m3p8tr": {
-    "kind": "blog",
-    "file": "content/blogs/modeling-fraud-rings.md",
-    "slug": "modeling-fraud-rings",
-    "hash": "02fcaf11d1d7b420",
-    "updated_at": "2026-10-01T09:00:00+05:30"
-  },
   "evt_35ae8f": {
     "kind": "event",
     "file": "content/events/graphrag-inference-hackathon-2026.md",
