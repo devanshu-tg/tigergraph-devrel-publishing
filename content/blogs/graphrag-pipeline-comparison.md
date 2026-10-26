@@ -4,10 +4,10 @@ slug: "graphrag-pipeline-comparison"
 title: "GraphRAG Pipeline Comparison"
 author: "TigerGraph DevRel"
 published_at: "2026-10-16T21:23:21+05:30"
-updated_at: "2026-10-16T21:26:11+05:30"
+updated_at: "2026-10-26T11:13:48+05:30"
 tags: ["graphrag", "benchmark", "rag"]
 cover_image_url: "/images/blogs/graphrag-benchmark.svg"
-canonical_url: "https://graphrag-benchmark.netlify.app/"
+canonical_url: "https://graphrag-demo.graphtiger.com/"
 featured: true
 ---
 
@@ -251,5 +251,5 @@ Token counts are measured. The dollar figures in the Cost / 1k column assume gem
 
 ---
 
-The [interactive version](https://graphrag-benchmark.netlify.app/) has the same numbers, plus a query console that runs all three pipelines against the real graph for any of the tested questions and shows each answer next to the correct one.
+The latest results, with a query console that runs all three pipelines side by side on the same question, are at [graphrag-demo.graphtiger.com](https://graphrag-demo.graphtiger.com/).
 
